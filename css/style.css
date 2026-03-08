@@ -570,7 +570,7 @@ p.paragraph:after {
 
 /*-- quote --*/
 .quote{
-    background: url(../images/VID_20251116_164046626_exported_0.jpg) 0px 0px;
+    background: url(../images/1763316609864.png) 0px 0px;
     background-size: cover;
     position: relative;
 }
@@ -910,7 +910,7 @@ a.move-top span{
 }
 @media(max-width:600px) {
 	.quote {
-		background: url(/images/VID_20251116_164046626_exported_0.jpg) center;
+		background: url(../images/1763316609864.png) center;
 		background-size: cover;
 	}
 }
